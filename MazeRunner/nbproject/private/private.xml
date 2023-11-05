@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/zandercowan/NetBeansProjects/MazeRunner/src/DataStuctures/CollectionADT.java</file>
+            <file>file:/Users/zandercowan/NetBeansProjects/MazeRunner/src/DataStuctures/EmptyCollectionException.java</file>
+            <file>file:/Users/zandercowan/NetBeansProjects/MazeRunner/src/DataStuctures/StackADT.java</file>
+            <file>file:/Users/zandercowan/NetBeansProjects/MazeRunner/src/DataStuctures/ElementNotFoundException.java</file>
+            <file>file:/Users/zandercowan/NetBeansProjects/MazeRunner/src/Maze_DS/MazeRunner.java</file>
+            <file>file:/Users/zandercowan/NetBeansProjects/MazeRunner/src/Maze_DS/Mouse.java</file>
+            <file>file:/Users/zandercowan/NetBeansProjects/MazeRunner/test/Maze_DS/MouseTest.java</file>
+            <file>file:/Users/zandercowan/NetBeansProjects/MazeRunner/test/Maze_DS/ArrayListStackTest.java</file>
+            <file>file:/Users/zandercowan/NetBeansProjects/MazeRunner/src/Maze_DS/ArrayListStack.java</file>
+        </group>
+    </open-files>
+</project-private>
